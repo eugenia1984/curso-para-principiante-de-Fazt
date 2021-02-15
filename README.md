@@ -32,3 +32,13 @@
 
 ## Construido con:
 **PYTHON**
+
+## Por favor: 🎁
+* Comparte este proyecto con otros 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+* Muchas gracias 🤓.
+
+---
+## Notas
+Agradezco su interés en este proyecto <br/>
+⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
